@@ -1,0 +1,6 @@
+p/beginner-bug-bounty1
+asdf
+sadfadfads
+uploads
+images
+backup
